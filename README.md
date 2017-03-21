@@ -13,3 +13,6 @@ graphql-passport-example
 ```
 Authorization: Bearer 4w3s0m3-t0k3n
 ```
+
+### Demo
+![Demo](docs/demo.gif)
